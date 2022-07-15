@@ -1,0 +1,1 @@
+import{_ as a,e as c,o,c as _,f as s,a as t}from"./index.d5227e54.js";const n={},r={class:"flex"};function d(l,f){const e=c("m-choose-city");return o(),_("div",null,[s("div",r,[t(e)])])}var p=a(n,[["render",d],["__scopeId","data-v-34f890ac"]]);export{p as default};

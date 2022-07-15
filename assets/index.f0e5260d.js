@@ -1,0 +1,1 @@
+import{d as a,e as c,o as s,c as t,a as r}from"./index.d5227e54.js";const p=a({__name:"index",setup(_){const o=e=>{console.log(e)};return(e,l)=>{const n=c("m-choose-area");return s(),t("div",null,[r(n,{onChange:o})])}}});export{p as default};
